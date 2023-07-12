@@ -104,7 +104,7 @@ nav{
 }
   /* features */
 .features{
-    padding: 50px 12%;
+    /* padding: 50px 12%; */
     font-size: 22px;
 
 }
@@ -137,6 +137,23 @@ nav{
     font-size: 50px;
     font-weight: 600;
     margin-bottom: 20px;
+}
+.border{
+    border-top: 4px solid gray;
+    width: 100%;
+    /* left: 500px; */
+}
+.f2{
+    border-bottom: 4px solid gray;
+    /* width: 100%; */
+}
+.f3{
+    border-bottom: 4px solid gray;
+    /* width: 100%; */
+}
+.f4{
+    border-bottom: 4px solid gray;
+    /* width: 100%; */
 }
 
 /* faq */
